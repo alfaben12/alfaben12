@@ -2,4 +2,4 @@
 
 Hi. I’m Alfaben. Sometimes when I close my eyes, I can't see.
 
-I work at [Vokanesia](https://vokanesia.id/) as a Backend Engineer. For more information about me, check out [alfaben12.github.io/](https://alfaben12.github.io/).
+I work at [Vokanesia](https://vokanesia.id/) as a Backend Engineer. For more information about me, check out [alfaben12.github.io](https://alfaben12.github.io/).
