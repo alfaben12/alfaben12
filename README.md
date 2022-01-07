@@ -1,3 +1,5 @@
+[![thariq Alfa.](https://i.postimg.cc/MH6NMpTJ/Untitled-design-3.png)](https://elnusapetrofin.co.id/)
+
 I work at [Elnusa Petrofin](https://www.elnusapetrofin.co.id/) as a Software Engineer.
  For more information about me, check out [alfaben12.github.io](https://alfaben12.github.io/).
 
