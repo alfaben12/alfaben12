@@ -1,1 +1,4 @@
-@OSSDAO-ORG•AIRDROP-0x29BD07a13670276A72f98fa441d99bf4a19E740a
+I work at [Elnusa Petrofin](https://www.elnusapetrofin.co.id/) as a Software Engineer.
+ For more information about me, check out [alfaben12.github.io](https://alfaben12.github.io/).
+
+ ✨ Fascinating facts: Time, Passion, Money, two of three fulfilled I took & I'm Kopites (Liverpool Fans) 🔴
